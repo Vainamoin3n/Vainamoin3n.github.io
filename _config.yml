@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ""
+baseurl: "/Vainamoin3n.github.io"
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -20,10 +20,10 @@ timezone: Europe/Helsinki
 
 title: Product Musings
 
-tagline: A product manager sharing some thoughts on Product Management, Agile, Culture
+tagline: Toughts and lessons learned on Product Management, Agile, Culture and product organisation in general
 
 description: >- # used by seo meta and the atom feed
-  A simple blog to share about product management, agile, culture
+  A simple blog to share about product management, agile, culture and product organisation in general
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://vainamoin3n.github.io"
