@@ -14,7 +14,7 @@ A simple post to introduct myself.
 # My work values
 
 I could probably write a whole article on my work experience (and I did ^^ but I erased it).
-Fortunately for you, I'd rather keep it short and tell that I have been through QA, backend dev, team leadership, Customer success, project management and currently am happy in Product Management.
+Fortunately for you, I'd rather keep it short and tell that I have been through QA, backend dev, team leadership, customer success, project management and currently am happy in product management.
 Now these titles don't necessarily reflect what I exactly did, but hey, working in small companies forces you to be quite versatile, and be where you are needed.
 if you want to see what I've done and where I've been, here is [my Linked in profile](https://www.linkedin.com/in/clément-louarn-finland) .
 
