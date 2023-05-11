@@ -8,7 +8,7 @@ tags: [self, introduction] 	# TAG names should always be lowercase
 A simple post to introduct myself.
 
 
-![Me and my son](https://media.licdn.com/dms/image/C4D03AQEPDc4YylDGHQ/profile-displayphoto-shrink_800_800/0/1653328649180?e=2147483647&v=beta&t=Nx7F0OUrStXfaPOo3RBaliM06KR9sGxaJ0EYKEVhxMQ)
+![Me and my son](/assets/img/meandmyson.png)
 
 
 # My work values
