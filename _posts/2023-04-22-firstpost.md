@@ -1,36 +1,52 @@
 ---
-title: Trying out to post a new blogpost
+title: Humble beginnings
 date: 2023-04-22 16:38:00 +0300
-categories: [Work Experience, Product Management]
-tags: [product management, culture, agile]     # TAG names should always be lowercase
+categories: [Self]
+tags: [self, introduction]     # TAG names should always be lowercase
 ---
 
-![Un Fromage](https://upload.wikimedia.org/wikipedia/commons/6/64/Vacherin_Mont_d%27Or.jpg)
-*Ca c'est un sacré fromage*
-
-# Trying things out
-
-It's really interesting to check how this **works**.
-
-I can't wait to start posting the list of ideas I have
+A simple post to introduct myself.
 
 
-
-> #### A bit of this a bit of that!
->
-> - Let's find out what people resonate with.
-> - And maybe get a bit of visibility.
->
->  *Everything* is going according to **plan**.
+![Me and my son](https://media.licdn.com/dms/image/C4D03AQEPDc4YylDGHQ/profile-displayphoto-shrink_800_800/0/1653328649180?e=2147483647&v=beta&t=Nx7F0OUrStXfaPOo3RBaliM06KR9sGxaJ0EYKEVhxMQ)
 
 
-We can also check if lists work well
-- item 1
-- item 2
-- item 3
+# My work values
 
+I could probably write a whole article on my work experience (and I did ^^ but I erased it).
+Fortunately for you, I'd rather keep it short and tell that I have been through QA, backend dev, team leadership, Customer success, project management and currently am happy in Product Management.
+Now these titles don't necessarily reflect what I exactly did, but hey, working in small companies forces you to be quite versatile, and be where you are needed.
+if you want to see what I've done and where I've been, here is [my Linked in profile](https://www.linkedin.com/in/clément-louarn-finland) .
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+One thing that I can expand on though is my work philosophy.
+So far what I've resonated most with have been working in a bottom-up culture where I can have an impact on things beyond my role description.
+I love giving and receiving feedback, open mindedness (Listen to what I have to say, and take it into account, even if your final decision is different), and collaboration.
+I work at my best when surrounded by people with whom I can discuss issues, bounce back ideas and overall challenge my thoughts and conceptions in a respectful way.
+An environment where people are very different from each other but share some base values such as respect, transparency and proactiveness is where you will see me bloom.
+Interesting that my work ethic is quite close to the Agile values :).
 
+I'm very lucky with my current workplace (Eficode) and team as they are fitting really well the description above.
 
-![a local image](/assets/img/duck.png)
+#Outside of work
+
+Well I would say that my biggest hobby is my son. Usually if I have free time, I'm going to spend it with him, outside, building legos and in general goofing around.
+
+If he is not available (or I don't have the energy :) ), I will play some video games (Currently Rocket league and Spiritfarer), read some books (currently "Continuous Discovery Habits" by Theresa Torres and I just finished the last trilogy of Joe Abercrombie) or do pling pling on my kantele (I have no idea how to play it but it's very pleasant to try to).
+
+I'm also an avid listener of music. The style I listen to change but a staple in folk music from various parts of the world.
+One artist has become a staple in the past years though: [Gealdýr](https://www.gealdyr.com/). I find that whatever mood I am in, listening to his music is the right thing to do.
+
+Oh and one hobby of mine is also Improvisation Theater. I used to be part of Improv Helsinki until they had to close doors (They reopened again!). Since then, my group and I have contracted a teacher [Anna Korolainen-Crevier](http://annakorolainencrevier.com/) to teach us. So far so very good.
+What I really love about Improvisation Theater is how useful its philosophy is at work and in life in general. I will definitely write more on that later.
+
+#Why this blog
+
+I've been considering writing about my experience and thoughts for quite a while but always ended up with these 2 conclusions:
+- The subjects I would write about have nothing innovative to them => I'm not helping anyone with them
+- Who am I to think that writing what I did or think would interest anyone? 
+
+A few colleagues (Dima and Antti, which you'll probably hear about in other posts in the blog) told me that it's not about yourself but rather about giving your version about the subjects and enriching the collective with that experience.
+So here I am. trying to add a drop of alternative experience to the collective of knowledge.
+Hopefully I will manage to keep you entertained during the trip.
+
+![let's go for a trip](https://pixabay.com/images/id-4851331/)
