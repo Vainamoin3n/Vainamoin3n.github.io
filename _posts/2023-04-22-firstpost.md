@@ -27,7 +27,7 @@ Interesting that my work ethic is quite close to the Agile values :).
 
 I'm very lucky with my current workplace (Eficode) and team: they are fitting really well the description above.
 
-#Outside of work
+# Outside of work
 
 Well I would say that my biggest hobby is my son. Usually if I have free time, I'm going to spend it with him .
 
@@ -39,7 +39,7 @@ One artist has become a staple in the past years though: [Gealdýr](https://www.
 Oh and one hobby of mine is also Improvisation Theater. I used to be part of "Improv Helsinki" until they had to close their doors (Yey Covid, but they reopened again!). Since then, my group and I have contracted a teacher [Anna Korolainen-Crevier](http://annakorolainencrevier.com/) to keep teaching us. So far so very good.
 What I really love about Improvisation Theater is how impactful its philosophy is, at work and in life in general. I will definitely write more on that later.
 
-#Why this blog
+# Why this blog
 
 I've been considering writing about my experience and thoughts for quite a while but always ended up with these 2 conclusions:
 - The subjects I would write about have nothing innovative to them => I'm not helping anyone with them
