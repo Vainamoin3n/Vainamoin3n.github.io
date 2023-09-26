@@ -82,7 +82,7 @@ So as early as possible, invest in product design.
 In our team, we have had a full time product designer as early as there were 2 software engineers (and the product manager was part time then).
 I don't have enough experience to tell you if it was the right time, but at least right now it's so that Camille has a bit of slack and so do I.
 
-Some entreprise have Product Design as a service, same as research as a service, but I have not had such experience before. 
+Some entreprises have design as a service, same for research as a service, but I have not had such experience before. 
 At least I can tell that having a product designer dedicated to the team has felt right so far, and I don't think it would be doable with less time and involvment.
 
 The PM/Product Designer duo allows, not only to find right problems to tackle, but also deliver relevant solutions generating business value, nurturing premium user experience and fostering customer-centricity.
