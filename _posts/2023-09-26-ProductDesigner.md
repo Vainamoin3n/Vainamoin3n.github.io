@@ -1,11 +1,12 @@
 ---
-title: The product designer, this communication champion
+title: The product designer, a communication champion
 date: 2023-09-09 00:00:00 +0300
 categories: [Product Design]
 tags: [product, design, product design, product management] 	# TAG names should always be lowercase
 ---
 
-In this post I want to talk about the impact a product designer has on a product team (as seen from a product manager point of view).
+In this post I talk about the impact of a product designer, on a product team.
+This is taken directly from my personal experience and I'm not using any AIs to make the post (maybe I should ;) )
 
 ![Designer and PM](/assets/img/designer.jpg)
 
