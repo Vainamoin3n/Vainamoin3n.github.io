@@ -5,8 +5,6 @@ order: 1
 ---
 
 
-# Portfolio
-
 ## Eficode
 
 ### Eficode Journey
@@ -29,11 +27,10 @@ It enables transparency on Eficode's activity, ease of reporting and visibility 
 - **What we shipped:** Service Managers can now do the reports in 2 clicks and it automatically shares to the customer and sends them an email when they approve it.
 - **Impact:** The effort dropped to almost null, reports became systematic across the whole customer base and mistakes were easily found and fixed.
 
-![SLA report](/assets/img/Journey/TicketSLA.png){: width="972" height="505" .w-51 .left}
-_Ticket SLA reports_
+<div style="display: flex; gap: 1rem;">
+  <img src="/assets/img/Journey/TicketSLA.png" alt="SLA report" style="width: 50%;">
+  <img src="/assets/img/Journey/TicketSLAReport1.png" alt="SLA report details" style="width: 50%;">
+</div>
 
-![SLA report details](/assets/img/Journey/TicketSLAReport1.png){: width="972" height="505" .w-51 .right}
-
-
-##### 2) ...
+##### 2) Uptime SLA
 
