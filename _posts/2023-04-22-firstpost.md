@@ -36,7 +36,7 @@ If he is not available (or I don't have the energy :) ), I will play some video 
 I'm also an avid listener of music. The style I listen to change but a staple is folk music, from various parts of the world.
 One artist has become a staple in the past years though: [Gealdýr](https://www.gealdyr.com/). I find that whatever mood I am in, listening to his music is the right thing to do.
 
-Oh and one hobby of mine is also Improvisation Theater. I used to be part of "Improv Helsinki" until they had to close their doors (Yey Covid, but they reopened again!). Since then, my group and I have contracted a teacher [Anna Korolainen-Crevier](http://annakorolainencrevier.com/) to keep teaching us. So far so very good.  
+Oh and one hobby of mine is also Improvisation Theater. I used to be part of "Improv Helsinki" until they had to close their doors (Yey Covid, but they reopened again!). Since then, my group and I have contracted a teacher [Anna Korolainen-Crevier](https://annakorolainencrevier.com/) to keep teaching us. So far so very good.  
 What I really love about Improvisation Theater is how impactful its philosophy is, at work and in life in general. I will definitely write more on that later.
 
 # Why this blog
