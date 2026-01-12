@@ -4,16 +4,43 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# A Product Manager in HEL
+# About
 
-Hey, I'm Clément Louarn, 35 years old living in Finland nearby Helsinki.
+I’m Clément Louarn, a Software Product Manager with a background in backend development.
+This space is a collection of thoughts and learnings from building products in real teams — covering product management, agile ways of working, and organizational dynamics.
 
-Writing a blog is a thought I have had for a while but never considered that I could say something that would add to the community.
-That is until Antti Suvanto, a colleague and mentor of mine told me: 
-> Clément, writing is not about adding new things to the community. It's about sharing your unique perspective so that others may learn from it.
+Alongside writing, you’ll find selected work and product experiences I’ve contributed to.
 
-I won't pretend to write anything that hasn't been said yet, but at least it will come from my personal experience, discussions I've had with colleagues and books that I have read.
+### Welcome to read my Product Musings :) !
 
-The topics will be mostly centered around working in a product company and my thoughts on Product Management, Agile, Company Culture, Organization and so on.
+# Portfolio
 
-## Welcome to read my Product Musings :) !
+## Eficode
+
+### Eficode Journey
+
+**Role:** Product Manager • 
+**Users:** Eficode customers, Eficode employees
+
+#### Summary
+Eficode Journey is Eficode's customer portal. It was built from scratch by Eficode R&D for which I was the product manager
+It enables transparency on Eficode's activity, ease of reporting and visibility on the state of software engineering, IT and Platform engineering at the customer's.
+
+#### Outcomes
+- Reporting went from "hours-days per month per customer" to "minutes per month per customer"
+- Enabled a new product line - Eficode Advisory & Support
+- 50-60% Monthly Active organizations in Managed Services customer base
+
+#### Capability timeline (problem → capability → proof)
+##### 1) Tickets SLA
+- **Problem:** No systematic way to report the SLAs on tickets leading to time consuming operations and mistakes, or simply skipped
+- **What we shipped:** Service Managers can now do the reports in 2 clicks and it automatically shares to the customer and sends them an email when they approve it.
+- **Impact:** The effort dropped to almost null, reports became systematic across the whole customer base and mistakes were easily found and fixed.
+
+![SLA report](/assets/img/Journey/TicketSLA.png){: width="972" height="505" .w-51 .left}
+_Ticket SLA reports_
+
+![SLA report details](/assets/img/Journey/TicketSLAReport1.png){: width="972" height="505" .w-51 .right}
+
+
+##### 2) ...
