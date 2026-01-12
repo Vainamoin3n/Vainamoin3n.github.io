@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-briefcase
 order: 1
 ---
 
@@ -70,6 +70,18 @@ It enables transparency on Eficode's activity, ease of reporting and visibility 
 - **Problem:** Every service manager reporting the worklog & billing details differently. Intense rush from every service manager at the start of the month to do billing. No easy way to replace one's colleague during billing.
 - **What we shipped:** Built a few clicks billing report, systematic across all Service Managers, with additional data to enable checking (& checking automatically) if there are issues. We extended the feature multiple times to add a yearly view, a current month estimate, and many more features for both the customers and service managers.
 - **Impact:** First feature that really impacted the Monthly Active Users (MAU). Drove the adoption of Journey widely across Eficode Managed Services customers. Service Managers stress level dropped significantly during billing period thank to this feature. They also could finally cover for each other.
+
+<div style="display: flex; gap: 1rem; margin-bottom: 1.5rem;">
+  <img src="/assets/img/Journey/Billing1.png" alt="Main report for billing" style="width: 100%;">
+  <img src="/assets/img/Journey/BillingReport1.png" alt="Monthly report part 1" style="width: 100%;">
+  <img src="/assets/img/Journey/BillingReport2.png" alt="Monthly report part 2" style="width: 100%;">
+</div>
+
+##### 5) Dashboard
+{: data-toc-skip='' .mt-4 .mb-0 }
+- **Problem:** Eficode ROOT, the flagship of Eficode Managed Services, is missing a visual interface. Eficode Journey also has no landing page and it's difficult to direct the customer where their action is needed.
+- **What we shipped:** The dashboard was built as a central place to guide the user (customer or internal) to where their action is required. It saw many interations and would still need more but currently it's good enough. It shows information at a glance and clear indicators where action is needed.
+- **Impact:** For the first time, both internal and external could see the total Eficode ROOT coverage at once without going to the contract.
 
 <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem;">
   <img src="/assets/img/Journey/Billing1.png" alt="Main report for billing" style="width: 100%;">
