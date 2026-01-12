@@ -9,8 +9,10 @@ order: 1
 
 ### Eficode Journey
 
-**Role:** Product Manager • 
-**Users:** Eficode customers, Eficode employees
+- **Role:** Product Manager
+- **Team:** 1 product manager, 1 engineering lead, 4 software engineers, 1 product designer
+- **Users:** Eficode customers, Eficode employees
+
 
 #### Summary
 Eficode Journey is Eficode's customer portal. It was built from scratch by Eficode R&D for which I was the product manager
