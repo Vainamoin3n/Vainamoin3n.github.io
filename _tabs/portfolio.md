@@ -13,7 +13,7 @@ order: 1
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 - **Role:** Product Manager
-- **Team:** 1 product manager, 1 engineering lead, 4 software engineers, 1 product designer, 1 product marketeer (shared)
+- **Team:** 1 product manager, 1 engineering team lead, 4 software engineers, 1 product designer, 1 product marketeer (shared)
 - **Users:** Eficode customers, Eficode employees
 - **Timeperiod**: October 2022-> Now
 
@@ -102,7 +102,7 @@ It enables transparency on Eficode's activity, ease of reporting and analytics o
 
 ##### 6) Advanced metrics
 {: data-toc-skip='' .mt-4 .mb-0 }
-- **Introduced:** December 2024 but the majority of the UI only appeared in October 2025
+- **Introduced:** December 2024 but the majority of the UI only appeared in September 2025
 - **Problem:** As customer move to (Atlassian) Cloud, Eficode loses its visibility on the customer tool health and is impaired in its ability to act as a trusted advisor for its customers.
 - **What we shipped:** (Requires Eficode Connector) Advanced Metrics enable to see, at a glance, what is the current situation of an organization tool adoption and usage. Using their expertise, Eficodeans can spot discrepancies and work with the customer to address those.
 - **Eficode business value:** This is a true game changer for Eficode. It has now access to the same metrics across all its customer base (the one who have the connectors) and can provide very precise, context relevant advisory and support for its customers. And there is direct feedback on the effect gotten thanks to the metrics. This leads to more gigs sold, happier customers and differenciating value compared to all consulting companies, as Eficode is continously measuring if the goals of the mission are being reached and address where the difficulties are met.
@@ -125,4 +125,16 @@ It enables transparency on Eficode's activity, ease of reporting and analytics o
 
 <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem;">
   <img src="/assets/img/Journey/Recommendations.png" alt="Recommendations" style="width: 100%;">
+</div>
+
+##### 7) Lens
+{: data-toc-skip='' .mt-4 .mb-0 }
+- **Introduced:** November 2025 
+- **Problem:** Advanced metrics is very snapshot and doesn't enable to see trendlines over time. This makes it difficult to see what is the impact of AI adoption or Eficode's work over time.
+- **What we shipped:** This is probably the feature I'm most proud of. With the product trio, we realized that by defining the X axis as a specific unit of time, we could have multiple graphs displayed at the same time, regardless of the tool or metric in Y axis. This enabled us to build Lens where one can for example see the impact of GitHub Copilot adoption in software team on the amount of Jira Epic closed (so more value reaching end customers in an ideal case), and a second later look at how many security issues / UX issues it introduced seen through GitHub security or Atlassian Service Desk bugs.
+- **Eficode business value:** The business potential of this feature is enormous. It is built to support most of Eficode's business (Consulting, License, Managed Services) and could bring a change on the whole consulting market, where customers expect such metrics to be in place to ensure impact. Unfortunately the timing was a bit off, as Eficode is having a really large organization rehaul still happening (as of January 2026), and I did not get any organization bandwidth in 2025 to launch any Go To Market activity, so the reach stayed limited to my close network. The adoption of that close network has been very impressive though, and it has really hit strong when they presented it to customers.
+- **Customer value:** For the customer that enjoyed the feature, this is transformational. They now can directly see the impact of Eficode and their AI adoption (or any transformation) over time. (This led to a few 😍 moments with customers). 
+
+<div style="display: flex; gap: 1rem; margin-bottom: 1.5rem;">
+  <img src="/assets/img/Journey/Lens1.png" alt="Lens" style="width: 100%;">
 </div>
