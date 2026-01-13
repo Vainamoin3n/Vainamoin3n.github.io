@@ -119,10 +119,10 @@ It enables transparency on Eficode's activity, ease of reporting and analytics o
 {: data-toc-skip='' .mt-4 .mb-0 }
 - **Introduced:** April 2025 
 - **Problem:** Recommendations from Eficode towards the customer go through many different channels, and many different persons. There is overlapping recommendations, information loss, and sometimes the customer gets lost as to what is the right thing to focus now
-- **What we shipped:** A simple pann
-- **Eficode business value:** This becomes a true game changer for Eficode. It has now access to the same metrics across all its customer base (the one who have the connectors) and can provide very precise, context relevant advisory and support for its customers. And there is direct feedback on the effect gotten thanks to the metrics. 
-- **Customer value:** Customers get a lot of actionable information,  around license consumption and usage, GitHub runners costs and cost centers and plugin security for example. But most of the value is acquired when sitting down with their Eficode advisor, looking at the numbers together and planning the next moves.
+- **What we shipped:** A simple feature that enables standardization of the recommendations, with automations added to it so that the recommendations reach the right persons (through email and Slack). Each recommendations features 3 parts : "What is the situation?", "What happens if it's not addressed", "What Eficode recommends" as well an Impact and Effort estimations.
+- **Eficode business value:** This feature hasn't enjoyed a good adoption rate up to now, but it starting picking up with more and more Eficode Advisory and Support being sold. The problem stated above is not yet solved with this.In the instances where the customers got the recommendations through the feature, they usually continued the discussion with their main point of contact at Eficode.
+- **Customer value:** Thanks to having, one unique place to find the recommendations and each having a reasoning and a clear impact and effort, the decision making is simplified, and there is less risk of Fear Of Missing Out (FOMO).
 
 <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem;">
-  <img src="/assets/img/Journey/Dashboard.png" alt="Dashboard" style="width: 100%;">
+  <img src="/assets/img/Journey/Recommendations.png" alt="Recommendations" style="width: 100%;">
 </div>
