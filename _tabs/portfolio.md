@@ -13,7 +13,7 @@ order: 1
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 - **Role:** Product Manager
-- **Team:** 1 product manager, 1 engineering lead, 4 software engineers, 1 product designer
+- **Team:** 1 product manager, 1 engineering lead, 4 software engineers, 1 product designer, 1 product marketing manager
 - **Users:** Eficode customers, Eficode employees
 - **Timeperiod**: October 2022-> Now
 
@@ -81,7 +81,7 @@ It enables transparency on Eficode's activity, ease of reporting and visibility 
 ##### 5) Dashboard
 {: data-toc-skip='' .mt-4 .mb-0 }
 - **Problem:** Eficode ROOT, the flagship of Eficode Managed Services, is missing a visual interface. Eficode Journey also has no landing page and it's difficult to direct the customer where their action is needed.
-- **What we shipped:** The dashboard was built as a central place to guide the user (customer or internal) to where their action is required. It saw many interations and would still need more but currently it's good enough. It shows information at a glance and clear indicators where action is needed.
+- **What we shipped:** The dashboard was built as a central place to guide the user (customer or internal) to where their action is required. It shows information at a glance and clear indicators where action is needed. It saw many interations and would still need more but currently it's good enough.
 - **Impact:** For the first time, both internal and external could see the total Eficode ROOT coverage at once without going to the contract.
 
 <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem;">
