@@ -20,14 +20,14 @@ order: 1
 
 #### Summary
 {: data-toc-skip='' .mt-4 .mb-0 }
-Eficode Journey is Eficode's customer portal. It was built from scratch by Eficode R&D for which I was the product manager
-It enables transparency on Eficode's activity, ease of reporting and visibility on the state of software engineering, IT and Platform engineering at the customer's.
+Eficode Journey is Eficode's customer portal. It was built from scratch by Eficode R&D for which I was the product manager.
+It enables transparency on Eficode's activity, ease of reporting and analytics on the state of software engineering, IT and Platform engineering at the customer's.
 
 #### Outcomes
 {: data-toc-skip='' .mt-4 .mb-0 }
 - Reporting went from "hours-days per month per customer" to "minutes per month per customer"
 - Human error in reporting dropped to very minimal
-- Enabled a new product line - Eficode Advisory & Support
+- Enabled a new product line, Eficode Advisory & Support, likely to become a main product of Eficode in the year 2026.
 - 50-60% Monthly Active organizations in Managed Services customer base
 - The customer trust in the Managed Services organization increased significantly after Eficode Journey was introduced
 
@@ -100,3 +100,29 @@ It enables transparency on Eficode's activity, ease of reporting and visibility 
 </div>
 
 
+##### 6) Advanced metrics
+{: data-toc-skip='' .mt-4 .mb-0 }
+- **Introduced:** December 2024 but the majority of the UI only appeared in October 2025
+- **Problem:** As customer move to (Atlassian) Cloud, Eficode loses its visibility on the customer tool health and is impaired in its ability to act as a trusted advisor for its customers.
+- **What we shipped:** (Requires Eficode Connector) Advanced Metrics enable to see, at a glance, what is the current situation of an organization tool adoption and usage. Using their expertise, Eficodeans can spot discrepancies and work with the customer to address those.
+- **Eficode business value:** This becomes a true game changer for Eficode. It has now access to the same metrics across all its customer base (the one who have the connectors) and can provide very precise, context relevant advisory and support for its customers. And there is direct feedback on the effect gotten thanks to the metrics. 
+- **Customer value:** Customers get a lot of actionable information,  around license consumption and usage, GitHub runners costs and cost centers and plugin security for example. But most of the value is acquired when sitting down with their Eficode advisor, looking at the numbers together and planning the next moves.
+
+<div style="display: flex; gap: 1rem; margin-bottom: 1.5rem;">
+  <img src="/assets/img/Journey/AdvancedMetrics_GitHub3.png" alt="Example of advanced metrics with GitHub" style="width: 100%;">
+  <img src="/assets/img/Journey/AdvancedMetrics_Gitlab4.png" alt="Example of advanced metrics with GitLab" style="width: 100%;">
+  <img src="/assets/img/Journey/AdvancedMetrics_Jira3.png" alt="Example of advanced metrics with Jira" style="width: 100%;">
+  <img src="/assets/img/Journey/AdvancedMetrics_JSM2.png" alt="Example of advanced metrics with Jira Service Management" style="width: 100%;">
+</div>
+
+##### 7) Recommendations
+{: data-toc-skip='' .mt-4 .mb-0 }
+- **Introduced:** April 2025 
+- **Problem:** Recommendations from Eficode towards the customer go through many different channels, and many different persons. There is overlapping recommendations, information loss, and sometimes the customer gets lost as to what is the right thing to focus now
+- **What we shipped:** A simple pann
+- **Eficode business value:** This becomes a true game changer for Eficode. It has now access to the same metrics across all its customer base (the one who have the connectors) and can provide very precise, context relevant advisory and support for its customers. And there is direct feedback on the effect gotten thanks to the metrics. 
+- **Customer value:** Customers get a lot of actionable information,  around license consumption and usage, GitHub runners costs and cost centers and plugin security for example. But most of the value is acquired when sitting down with their Eficode advisor, looking at the numbers together and planning the next moves.
+
+<div style="display: flex; gap: 1rem; margin-bottom: 1.5rem;">
+  <img src="/assets/img/Journey/Dashboard.png" alt="Dashboard" style="width: 100%;">
+</div>
