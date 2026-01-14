@@ -11,7 +11,7 @@ order: 1
 {: data-toc-skip='' .mt-4 .mb-0 }
 - [Eficode Connectors](#product-eficode-connectors)
 - [Eficode Journey](#product-eficode-journey)
-- [Wiztivi Gaming CMS](#product-wiztivi-gaming-cms)
+- Wiztivi Gaming CMS (To be adde soon)
 
 ## Eficode
 {: data-toc-skip='' .mt-4 .mb-0 }
