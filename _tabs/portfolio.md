@@ -8,15 +8,66 @@ order: 1
 
 ## Eficode
 {: data-toc-skip='' .mt-4 .mb-0 }
-
-### Eficode Journey
-{: data-toc-skip='' .mt-4 .mb-0 }
-
 - **Role:** Product Manager
 - **Team:** 1 Product Manager, 1 Engineering Team Lead, 4 Software Engineers, 1 Product Designer, 1 Product Marketeer (shared)
+
+### Product: Eficode Connectors
+
+- **Users:** Eficode customers, Eficode employees
+- **Time period:** November 2024 to now
+
+#### Summary
+{: data-toc-skip='' .mt-4 .mb-0 }
+Eficode connectors are a set of plugins deployed in their respective tool vendors’ cloud marketplaces. Their purpose, combined with Eficode’s cloud architecture, is to capture metrics from customers' tool environments.
+Thanks to the metrics gathered, Eficode can perform analyses for multiple use cases. The main use is found in combination with [Eficode Journey](#product-eficode-journey) to analyze the customer platform engineering, IT and software engineering practices with their toolset and, with that information at hand, advise and support them in addressing discrepancies and helping the organization better reach its goals. You'll find its use mostly in [Advanced Metrics](#6-advanced-metrics) and [Lens](#8-lens)
+A second use is to give back the information to its customer and the industry, in the form of reports on the state of DevOps, Platform Engineering and AI adoption in companies.
+As of today, there are three connectors deployed: (1) Atlassian Cloud (Jira, Jira Service Management, and Confluence), (2) Atlassian Cloud Bitbucket, and (3) GitHub/GitHub Copilot (available for both Cloud and Data Center). Two more are in progress: GitLab (Data Center) and Azure. Many more are planned on the roadmap to support the Eficode customer base.
+
+#### Outcomes
+{: data-toc-skip='' .mt-4 .mb-0 }
+- Helped multiple organizations get more value out of their toolset.
+- Led Eficode to new engagements with existing and new customers.
+- Reinforced Eficode's relationship with its partners, especially with GitHub and Microsoft.
+- Changed the way Eficode advises its customer towards a more customized approach.
+
+#### Capabilities built over time 
+{: data-toc-skip='' .mt-4 .mb-0 }
+
+##### 1) Eficode Connector for Jira Cloud, Confluence Cloud and Jira Service Management Cloud (JSM)
+{: data-toc-skip='' .mt-4 .mb-0 }
+- **Introduced:** March 2025
+- **Problem:** When an Eficode Customer moves to Atlassian Cloud, Eficode loses all capability to extract analytics from the environment and, with this, is impaired in its ability to advise.
+- **What we shipped:** An Atlassian Plugin, living in the Atlassian marketplace, that gathers data from the customer environment towards Eficode in a secure way, without compromising intellectual property (IP) or personal data (PII).
+- **Eficode business value:** Analytics on Atlassian tools become possible, for single organization purpose as well as at scale for studying the market.
+- **Customer value:** Through Eficode Journey, customers can access the analytics Eficode does on their own environment. Eficode's advisors look at these analytics with the customers to decide what is the best course of action. Customers can also follow in real time the impact of their transformations, for example: AI adoption programs, tool migrations or tool adoption programs.
+
+**Link:** <https://marketplace.atlassian.com/apps/1231800/eficode-connector-for-jira-and-confluence>
+
+##### 2) Eficode Connector for GitHub and GitHub Copilot (Cloud and Data Center)
+{: data-toc-skip='' .mt-4 .mb-0 }
+- **Introduced:** June 2025
+- **Problem:** With so many organizations moving to GitHub Copilot, many were left wondering whether their employees actually use it, and what for? Does it actually have an effect on the organization's bottom line? This is what we intended to solve.
+- **What we shipped:** The GitHub plugin captures data about the software pipelines of the customers without looking at the content of these pipelines. It also captures information about the GitHub Copilot usage at the enterprise and organization levels. Yet again, we wanted to keep any IPR or PII in the customer environment and focus on the "metadata". The plugin was launched both for Cloud and Data Center, as organizations were very active in both.
+- **Eficode business value:** Analytics on GitHub and GitHub Copilot, for single organization purpose as well as at scale for studying the market. In an age where everyone is moving towards AI assisted software development, this is extremely valuable information.
+- **Customer value:** Through Eficode Journey, customers can access the analytics Eficode does on their own environment. Eficode's advisors look at these analytics with the customers to decide what is the best course of action. Customers can also follow in real time the impact of their transformations, for example: GitHub Copilot adoption programs, tool migrations (from/to Bitbucket or Gitlab) or tool adoption programs.
+
+**Link (Cloud):** <https://github.com/marketplace/eficode-root-connector>
+**Link (Data Center):** Not public
+
+
+##### 3) Eficode Connector for Bitbucket Cloud
+{: data-toc-skip='' .mt-4 .mb-0 }
+- **Introduced:** October 2025
+- **Problem:** Multiple customers were using GitHub Copilot with Atlassian Bitbucket, so that was our next target for impact of AI and transformation on customer organizations.
+- **What we shipped:** The Bitbucket plugin captures information about customer pipelines in Bitbucket Cloud, with the intent to produce the same insights as the GitHub Connector
+- **Eficode business value:** Since Eficode has traditionally been a really strong Atlassian partner, a significant portion of the customer base has been users of Bitbucket. Offering the metrics we did for GitHub for these customers enabled a better support and advisory from Eficode.
+- **Customer value:** In addition to the value the GitHub Connector provides, customers can finally get cross-tool metrics (GitHub Copilot + Bitbucket), which is difficult when the tools come from different vendors.
+
+**Link:** <https://marketplace.atlassian.com/apps/2310380027/eficode-connector-for-bitbucket>
+
+### Product: Eficode Journey
 - **Users:** Eficode customers, Eficode employees
 - **Time period:** October 2022 to now
-
 
 #### Summary
 {: data-toc-skip='' .mt-4 .mb-0 }
@@ -101,7 +152,6 @@ It enables transparent access to Eficode’s activity, easier reporting, and ana
 
 
 ##### 6) Advanced metrics
-{: data-toc-skip='' .mt-4 .mb-0 }
 - **Introduced:** December 2024 but the majority of the UI only appeared in September 2025
 - **Problem:** As customers move to tool vendors’ cloud offerings, Eficode loses its visibility on the customer tool health, and this impairs its ability to act as a trusted advisor.
 - **What we shipped:** (Requires Eficode Connector) Advanced Metrics enable us to see, at a glance, the current state of an organization’s tool adoption and usage. Using their expertise, Eficode experts can spot discrepancies and work with the customer to address those.
@@ -128,7 +178,6 @@ It enables transparent access to Eficode’s activity, easier reporting, and ana
 </div>
 
 ##### 8) Lens
-{: data-toc-skip='' .mt-4 .mb-0 }
 - **Introduced:** November 2025 
 - **Problem:** Advanced Metrics is focused on the present and doesn’t show trendlines over time. This makes it difficult to see the impact of AI adoption or Eficode's work over time, and to understand when changes happen and what triggers them.
 - **What we shipped:** This is probably the feature I'm most proud of. With the core product trio (PM, design, and engineering), we realized that by defining the x-axis as a specific unit of time, we could have multiple graphs displayed at the same time, regardless of the tool or the metric on the y-axis. This enabled us to build Lens, where one can, for example, see the impact of GitHub Copilot adoption in software teams on the amount of Jira epics closed (so more value reaches end customers, in an ideal case), and moments later look at how many security issues / UX issues it introduced, visible through GitHub security findings or Atlassian Service Desk bugs.
