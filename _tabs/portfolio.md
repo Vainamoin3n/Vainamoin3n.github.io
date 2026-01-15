@@ -4,20 +4,35 @@ icon: fas fa-briefcase
 order: 1
 ---
 
-## Under construction (2026-01-14)
+## Introduction
 
+Hey, I’m Clément Louarn — a Product Manager with 5+ years of experience. This is my portfolio.
+Or rather: it’s what my teams and I actually shipped. After all the ideas, experiments, trials, and prototypes that never make it to production, a portfolio can feel a bit thin (survivor bias included). Still, the shipped work tells a real story—what we were trying to solve, why we made certain bets, and what changed as a result.
+A big part of how I work is staying close to reality: talking to customers, testing assumptions early, and making the “why” behind decisions explicit, so my team isn't just building features, but building a delightful experience to solve a real problem in a way that works for the business.
+If you landed on this page, I hope it gives you a clearer sense of who I am and how I think.
 
+### How I work
+- **Discovery-first:** hypothesis-driven discovery to reduce value/usability/feasibility/business risk.
+- **Explain the why:** clear rationale for bets and trade-offs.
+- **Build with teams:** tight collaboration with engineering/design on prototypes and long-term solutions.
+- **Customer close:** regular customer conversations; pilot-customer practice.
+- **Commercialization aware:** partner with product marketing and sales on GTM elements.
+
+---
 ## Content table:
 {: data-toc-skip='' .mt-4 .mb-0 }
 - [Eficode Connectors](#product-eficode-connectors)
 - [Eficode Journey](#product-eficode-journey)
-- Wiztivi Gaming CMS (To be adde soon)
+- [Wiztivi Gaming Content Management System] (#product-wiztivi-gaming-content-management-system)
+---
 
 ## Eficode
 {: data-toc-skip='' .mt-4 .mb-0 }
+- **Company:** Eficode is a B2B software and DevOps services company, providing expert consulting and managed services around DevOps, platform engineering, cloud, and enterprise service management, with strong partnerships and license management for major tool vendors (e.g., Atlassian, GitHub, GitLab, AWS, Microsoft)
 - **Role:** Product Manager
 - **Team:** 1 Product Manager, 1 Engineering Team Lead, 4 Software Engineers, 1 Product Designer, 1 Product Marketeer (shared)
 
+---
 ### Product: Eficode Connectors
 
 - **Users:** Eficode customers, Eficode employees
@@ -50,7 +65,7 @@ Customers get a secure, vendor-native way to unlock cross-tool analytics without
 - **Problem:** When an Eficode customer moves to Atlassian Cloud, Eficode loses the ability to extract analytics from the environment and, as a result, is impaired in its ability to advise.
 - **What we shipped:** An Atlassian Plugin, living in the Atlassian marketplace, that gathers data from the customer environment towards Eficode in a secure way, without compromising intellectual property (IP) or personal data (PII).
 - **Eficode business value:** Analytics on Atlassian tools become possible, for a single organization as well as at scale for studying the market.
-- **Connector specific value for customer:** Enables visibility over work throughput, operational load, and service-management hygiene, so that teams can target process bottlenecks and support effectiveness with evidence.
+- **Connector focus:** Enables visibility over work throughput, operational load, and service-management hygiene, so that teams can target process bottlenecks and support effectiveness with evidence.
 
 **Link:** <https://marketplace.atlassian.com/apps/1231800/eficode-connector-for-jira-and-confluence>
 
@@ -60,7 +75,7 @@ Customers get a secure, vendor-native way to unlock cross-tool analytics without
 - **Problem:** As organizations moved to GitHub Copilot, many wondered whether employees actually used it, what they used it for, and whether it affected the organization’s bottom line. This is what we intended to solve.
 - **What we shipped:** The GitHub plugin captures data about the customers' software pipelines without looking at the content of these pipelines. It also captures information about GitHub Copilot usage at the enterprise and organization levels. Again, we wanted to keep any IP or PII in the customer environment and focus on the "metadata". The plugin was launched both for Cloud and Data Center, as organizations were very active in both.
 - **Eficode business value:** Analytics on GitHub and GitHub Copilot, for single organization purpose as well as at scale for studying the market. In an age where everyone is moving towards AI-assisted software development, this is extremely valuable information.
-- **Connector specific value for customer:** Adds pipeline metrics, security signals (Dependabot and GitHub Advanced Security), and GitHub Copilot adoption signals so customers can evaluate whether AI changes outcomes, not just activity.
+- **Connector focus:** Adds pipeline metrics, security signals (Dependabot and GitHub Advanced Security), and GitHub Copilot adoption signals so customers can evaluate whether AI changes outcomes, not just activity.
 
 **Link (Cloud):** <https://github.com/marketplace/eficode-root-connector>
 **Link (Data Center):** Not public
@@ -72,10 +87,10 @@ Customers get a secure, vendor-native way to unlock cross-tool analytics without
 - **Problem:** Multiple customers were using GitHub Copilot with Atlassian Bitbucket, so this became our next target to measure the impact of AI and transformation in customer organizations.
 - **What we shipped:** The Bitbucket plugin captures information about customer pipelines in Bitbucket Cloud, with the intent to produce the same insights as the GitHub Connector.
 - **Eficode business value:** Since Eficode has traditionally been a really strong Atlassian partner, a significant portion of the customer base has been users of Bitbucket. Offering the metrics we did for GitHub for these customers enabled better support and advisory from Eficode.
-- **Connector specific value for customer:** Enables Copilot + Bitbucket cross-tool views for Atlassian-heavy organizations, enabling them to see the impact of GitHub Copilot on their software organization.
+- **Connector focus:** Enables Copilot + Bitbucket cross-tool views for Atlassian-heavy organizations, enabling them to see the impact of GitHub Copilot on their software organization.
 
 **Link:** <https://marketplace.atlassian.com/apps/2310380027/eficode-connector-for-bitbucket>
-
+---
 ### Product: Eficode Journey
 - **Users:** Eficode customers, Eficode employees
 - **Time period:** October 2022 to now
@@ -200,3 +215,36 @@ It enables transparent access to Eficode’s activity, easier reporting, and ana
   <img src="/assets/img/Journey/Lens2.png" alt="Impact of GH Copilot on the volume of work going through Jira" style="width: 100%;">
 </div>
 
+---
+## Wiztivi Gaming
+{: data-toc-skip='' .mt-4 .mb-0 }
+- **Company:** Wiztivi Gaming (B2B2C) is the cloud gaming organization behind Streamava, a white-label, multi-screen cloud gaming solution designed for telecom and service providers. Its roots trace back to long-running “gaming-on-demand” deployments (SFR since 2010, Orange since 2012). Wiztivi’s cloud gaming capability was reinforced through the acquisition of G-cluster Europe (2016).
+- **Role:** Product Manager and Project Manager
+- **Team:** Varied by project—from 2 to 10 engineers plus QA, Scrum Masters, and IT
+
+### Product: Wiztivi Gaming Content Management System
+- **Users:** Partner marketing team, Wiztivi Gaming employees
+- **Time period:** October 2021 to May 2022
+- **Team:** 1 Product/Project Manager, 1 Scrum Master, 1 QA Engineer, 10+ engineers
+
+#### Summary
+{: data-toc-skip='' .mt-4 .mb-0 }
+The Wiztivi Gaming Content Management System (CMS) is the delivery backbone that powers the content displayed in the cloud gaming portal.
+It drives the interface through which players discover and launch games, and it is designed to deliver highly personalized content reliably under sustained high-traffic conditions typical of large-scale consumer platforms.
+
+#### Problem
+{: data-toc-skip='' .mt-4 .mb-0 }
+The content of the portal was originally fairly static, delivered the same across the whole customer base for performance optimization reasons. 
+This caused issues because any partner-led marketing campaign (which were at least weekly) was forcing the portal team to build and deploy new packages for every change. This was too slow and too cumbersome for everyone involved.
+
+#### What we shipped
+{: data-toc-skip='' .mt-4 .mb-0 }
+A highly scalable, microservices-based content management system, configured by partners themselves, that could update the portal experience for everyone with the click of a button.
+
+#### Outcomes
+{: data-toc-skip='' .mt-4 .mb-0 }
+- Made all portal content fully dynamic: all the UI is now entirely defined in the CMS, including menus, games, images, texts, ...
+- Enabled significantly more partner-led marketing campaigns.
+- Enabled A/B testing of portal content.
+- Enabled highly personalized content delivery per player.
+- Did not degrade user experience during the transition, which was a key success criterion.
