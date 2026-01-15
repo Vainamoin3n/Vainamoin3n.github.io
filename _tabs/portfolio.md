@@ -31,6 +31,7 @@ If you think I could be a good fit for your team, I'd be happy to connect.
 - [Eficode Connectors](#product-eficode-connectors)
 - [Eficode Journey](#product-eficode-journey)
 - [Wiztivi Gaming Content Management System](#product-wiztivi-gaming-content-management-system)
+
 ---
 
 ## Eficode
@@ -97,7 +98,9 @@ Customers get a secure, vendor-native way to unlock cross-tool analytics without
 - **Connector focus:** Enables Copilot + Bitbucket cross-tool views for Atlassian-heavy organizations, enabling them to see the impact of GitHub Copilot on their software organization.
 
 **Link:** <https://marketplace.atlassian.com/apps/2310380027/eficode-connector-for-bitbucket>
+
 ---
+
 ### Product: Eficode Journey
 - **Users:** Eficode customers, Eficode employees
 - **Time period:** October 2022 to now
