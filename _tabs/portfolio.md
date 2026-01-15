@@ -8,7 +8,6 @@ order: 1
 {: data-toc-skip='' .mt-4 .mb-0 }
 Hey, I'm Clément Louarn — a Product Manager with 5+ years of experience. This is my portfolio.
 Or rather: it's what my teams and I actually shipped. After all the ideas, experiments, trials, and prototypes that never make it to production, a portfolio can feel a bit thin (survivor bias?). Still, the shipped work tells a real story: what we were trying to solve, why we made certain bets, and what changed as a result.
-A big part of how I work is staying close to reality: talking to customers, testing assumptions early, and making the “why” behind decisions explicit, so my team isn't just building features, but solving real problems in a way that works for customers and the business.
 If you landed on this page, I hope it gives you a clearer sense of who I am and how I think.
 
 ### How I work
