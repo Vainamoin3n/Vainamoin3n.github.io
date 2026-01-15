@@ -230,7 +230,7 @@ It enables transparent access to Eficode's activity, easier reporting, and analy
 ## Wiztivi Gaming
 {: data-toc-skip='' .mt-4 .mb-0 }
 - **Company:** Wiztivi Gaming (B2B2C) is the cloud gaming organization behind Streamava, a white-label, multi-screen cloud gaming solution designed for telecom and service providers. Its roots trace back to long-running “gaming-on-demand” deployments (SFR since 2010, Orange since 2012). Wiztivi's cloud gaming capability was reinforced through the acquisition of G-cluster Europe (2016).
-- **Role:** Product Manager and Project Manager
+- **Roles:** Product Manager and Project Manager, Customer success manager, Backend Team lead and Backend engineer.
 - **Team:** Varied by project—from 2 to 10 engineers plus QA, Scrum Masters, and IT
 
 ### Product: Wiztivi Gaming Content Management System
