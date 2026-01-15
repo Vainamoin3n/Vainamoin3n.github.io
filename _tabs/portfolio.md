@@ -8,7 +8,7 @@ order: 1
 {: data-toc-skip='' .mt-4 .mb-0 }
 Hey, I'm Clément Louarn — a Product Manager with 5+ years of experience. This is my portfolio.
 Or rather: it's what my teams and I actually shipped. After all the ideas, experiments, trials, and prototypes that never make it to production, a portfolio can feel a bit thin (survivor bias?). Still, the shipped work tells a real story: what we were trying to solve, why we made certain bets, and what changed as a result.
-If you landed on this page, I hope it gives you a clearer sense of who I am and how I think.
+If you landed on this page, I hope it gives you a clearer sense of who I am and how I think. And if you think I could be a good fit for your team, I'd be happy to connect.
 
 ### How I work
 {: data-toc-skip='' .mt-4 .mb-0 }
@@ -22,7 +22,7 @@ If you landed on this page, I hope it gives you a clearer sense of who I am and 
 - **Relationship-driven:** I build trust across functions and seniority levels, which makes alignment and execution easier.
 - **Commercialization aware:** partner with product marketing and sales on GTM elements.
 
-If you think I could be a good fit for your team, I'd be happy to connect.
+
 
 ---
 ## Content table:
