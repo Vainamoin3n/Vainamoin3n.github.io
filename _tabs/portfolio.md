@@ -186,7 +186,7 @@ It enables transparent access to Eficode's activity, easier reporting, and analy
 </div>
 
   
-  ##### 6) Status page
+##### 6) Status page
 {: data-toc-skip='' .mt-4 .mb-0 }
 - **Introduced:** Spring 2023
 - **Problem:** Some of the “tool down” issues reported by customers were happening on their network and both sides wasted time investigating.
