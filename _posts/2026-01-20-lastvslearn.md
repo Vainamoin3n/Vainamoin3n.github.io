@@ -5,7 +5,7 @@ categories: [Knowledge]
 tags: [product management, ai, software engineering] 	# TAG names should always be lowercase
 ---
 
-![lastvslearn](/assets/img/LastVsLearn.jpg)
+![lastvslearn](/assets/img/LastVsLearn.png)
 
 ## Intent first: learn vs last
 Software product teams build two very different kinds of work: artifacts to learn and systems to run.
