@@ -5,7 +5,7 @@ categories: [Knowledge]
 tags: [self, growth] 	# TAG names should always be lowercase
 ---
 
-![weekwrapup](/assets/img/WeekWrapUp.png)
+![weekwrapup](/assets/img/WeekWrapUp.jpeg)
 
 ## A weekly wrap-up that keeps me grounded
 About a year and a half ago, I started a small habit: every Friday, I write a short wrap-up of my week.
