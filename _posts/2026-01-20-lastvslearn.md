@@ -1,5 +1,5 @@
 ---
-title: "Building to last vs building to learn!"
+title: "Building to last vs Building to learn!"
 date: 2026-01-20 00:00:00 +0300
 categories: [Knowledge]
 tags: [product management, ai, software engineering] 	# TAG names should always be lowercase
