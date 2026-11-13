@@ -1,0 +1,67 @@
+.personal-page {
+  --personal-accent: #31635b;
+  --personal-soft: #eff5f2;
+  --personal-line: #d8e4de;
+  --personal-ink: #243c35;
+  padding-bottom: 1rem;
+}
+.personal-outside { --personal-accent: #805531; --personal-soft: #f8f2ea; --personal-line: #e8ddce; --personal-ink: #503d2e; }
+[data-mode="dark"] .personal-page { --personal-accent: #a2d5c2; --personal-soft: #202e2a; --personal-line: #3a5047; --personal-ink: #e0eee7; }
+[data-mode="dark"] .personal-outside { --personal-accent: #e0b98c; --personal-soft: #302a24; --personal-line: #574735; --personal-ink: #f0e0ce; }
+@media (prefers-color-scheme: dark) {
+  html:not([data-mode="light"]) .personal-page { --personal-accent: #a2d5c2; --personal-soft: #202e2a; --personal-line: #3a5047; --personal-ink: #e0eee7; }
+  html:not([data-mode="light"]) .personal-outside { --personal-accent: #e0b98c; --personal-soft: #302a24; --personal-line: #574735; --personal-ink: #f0e0ce; }
+}
+.personal-page .personal-eyebrow { color: var(--personal-accent); font-size: .7rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; margin: 0 0 .8rem; }
+.personal-page .personal-intro { padding: 1.4rem 0 1.6rem; }
+.personal-page .personal-intro h2 { font-size: clamp(2rem, 4vw, 3rem); font-weight: 750; line-height: 1.12; letter-spacing: -.045em; margin: 0 0 1.5rem; color: var(--heading-color); }
+.personal-page .personal-lead { font-size: 1.16rem; line-height: 1.7; }
+.personal-page .personal-jump { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1.7rem; }
+.personal-page .personal-jump a { color: var(--personal-accent); border: 1px solid var(--personal-line); border-radius: 100px; padding: .45rem .8rem; font-size: .83rem; text-decoration: none; }
+.personal-page .personal-jump a:hover { background: var(--personal-soft); }
+.personal-page a:focus-visible, .personal-page summary:focus-visible { outline: 3px solid var(--personal-accent); outline-offset: 4px; }
+.personal-page .personal-note { background: var(--personal-soft); border-left: 3px solid var(--personal-accent); border-radius: 0 12px 12px 0; padding: 1.5rem 1.6rem; margin: 1rem 0 2.5rem; }
+.personal-page .personal-note p:last-child { color: var(--personal-ink); font-size: 1.1rem; line-height: 1.65; margin-bottom: 0; }
+.personal-page .personal-project { border-top: 1px solid var(--personal-line); padding: 2rem 0 2.4rem; scroll-margin-top: 5rem; }
+.personal-page .personal-project-top { display: flex; align-items: center; flex-wrap: wrap; gap: .7rem; margin-bottom: 1rem; }
+.personal-page .personal-project-top .personal-eyebrow { margin: 0; flex: 1; }
+.personal-page .personal-number { display: inline-flex; align-items: center; justify-content: center; background: var(--personal-soft); color: var(--personal-accent); border-radius: 8px; width: 2.4rem; height: 2.4rem; font: 600 .85rem ui-monospace, monospace; }
+.personal-page .personal-status { color: var(--personal-accent); font-size: .72rem; border: 1px solid var(--personal-line); border-radius: 5px; padding: .2rem .45rem; }
+.personal-page .personal-project h2 { margin: 0 0 1.1rem; font-size: 1.65rem; line-height: 1.3; letter-spacing: -.025em; }
+.personal-page .personal-pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; margin-top: 1.5rem; }
+.personal-page .personal-pair h3 { margin: 0 0 .6rem; color: var(--personal-accent); font-size: .9rem; font-weight: 700; }
+.personal-page .personal-pair p { font-size: .93rem; line-height: 1.75; }
+.personal-page .personal-takeaway { border-top: 1px dashed var(--personal-line); padding-top: 1rem; margin-top: 1rem; margin-bottom: 0; font-size: .9rem; }
+.personal-page .personal-details { border: 1px solid var(--personal-line); border-radius: 8px; padding: .8rem 1rem; margin: .7rem 0 1.4rem; font-size: .9rem; }
+.personal-page .personal-details summary { cursor: pointer; color: var(--personal-accent); font-weight: 600; }
+.personal-page .personal-details ol { padding-left: 1.2rem; margin: 1rem 0 .2rem; }
+.personal-page .personal-details li { margin-bottom: .6rem; }
+.personal-page .personal-read, .personal-page .personal-closing a { color: var(--personal-accent); font-size: .93rem; }
+.personal-page .personal-closing { border-radius: 12px; background: var(--personal-soft); padding: 1.8rem; margin: .5rem 0 1rem; }
+.personal-page .personal-closing h2 { font-size: 1.5rem; line-height: 1.3; margin: 0 0 1rem; color: var(--personal-ink); }
+.personal-page .personal-closing p { color: var(--personal-ink); }
+@media (max-width: 600px) {
+  .personal-page .personal-pair { grid-template-columns: 1fr; gap: .3rem; }
+  .personal-page .personal-note, .personal-page .personal-closing { padding: 1.2rem; }
+  .personal-page .personal-project-top .personal-eyebrow { min-width: 130px; }
+  .personal-page .personal-intro { padding-top: .6rem; }
+}
+
+.personal-page .personal-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.2rem; margin: 1.4rem 0; }
+.personal-page .personal-gallery figure { margin: 0; min-width: 0; }
+.personal-page .personal-gallery a { display: block; border: 0; border-radius: 10px; overflow: hidden; background: var(--personal-soft); }
+.personal-page .personal-gallery img { display: block; width: 100%; height: auto; margin: 0; border-radius: 10px; }
+.personal-page .personal-gallery figcaption { margin-top: .55rem; color: var(--text-muted-color); font-size: .8rem; line-height: 1.5; text-align: left; }
+.personal-page .personal-gallery-wide { grid-column: 1 / -1; }
+.personal-page .personal-media-link { margin: 1rem 0 0; font-size: .85rem; }
+.personal-page .personal-media-link a { color: var(--personal-accent); }
+.personal-page .personal-media-link > span { color: var(--text-muted-color); }
+@media (max-width: 600px) {
+  .personal-page .personal-gallery { grid-template-columns: 1fr; }
+}
+.personal-page .personal-spinner > a, .personal-page .personal-spinner > img { width: 100%; max-width: 360px; margin-inline: auto; }
+.personal-page .personal-spinner > figcaption { text-align: center; }
+.personal-page .personal-spin-control { max-width: 360px; margin: 1rem auto 0; }
+.personal-page .personal-spin-control a { background: transparent; }
+.personal-page .personal-spin-control img { max-width: 288px; margin: 1rem auto; }
+.personal-page .personal-spin-control p { font-size: .78rem; margin: .5rem 0 0; }

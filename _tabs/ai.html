@@ -1,0 +1,82 @@
+---
+title: AI
+icon: fas fa-wand-magic-sparkles
+order: 1.1
+permalink: /ai/
+personal_page: true
+description: My work on AI adoption insights with Eficode Lens, alongside personal experiments with agents, games, and job applications.
+---
+
+<div class="personal-page">
+  <section class="personal-intro" aria-labelledby="ai-intro">
+    <p class="personal-eyebrow">Experiments &amp; lessons learned</p>
+    <h2 id="ai-intro">Learning AI by making things.</h2>
+    <p class="personal-lead">The best way for me to understand what agents can do is to give them a real problem. A game I wanted to build. An application I needed to write. A team I wanted to help improve.</p>
+    <p>These projects are where I try things, get surprised, and find the current limits. My background is in software development and product management, so I care about both how something works and whether it is useful.</p>
+    <p>Alongside that professional work, the three personal projects further down are my largest experiments so far. Alongside them, I have built smaller agents for interview preparation, birthday planning, purchase research, extracting assets from old games, ... I have picked these three to share in more detail because they show different ways I work with agents and what I have learned.</p>
+    <nav class="personal-jump" aria-label="Selected AI projects">
+      <a href="#lens">AI at work: Lens <span aria-hidden="true">↗</span></a>
+      <a href="#unity">Building a game <span aria-hidden="true">↗</span></a>
+      <a href="#applications">Job search and applications <span aria-hidden="true">↗</span></a>
+      <a href="#warships">Gaming analytics <span aria-hidden="true">↗</span></a>
+    </nav>
+  </section>
+
+  <aside class="personal-note" aria-label="My approach">
+    <p class="personal-eyebrow">The thread through all of this</p>
+    <p>Agents can do a lot of the work. I still need to define what good looks like, question the result, and decide what to do next.</p>
+  </aside>
+
+  <section class="personal-project" id="lens" aria-labelledby="lens-title">
+    <div class="personal-project-top"><span class="personal-number" aria-hidden="true">01</span><p class="personal-eyebrow">At work · Eficode Lens</p><span class="personal-status">Professional experience</span></div>
+    <h2 id="lens-title">Is AI adoption changing the outcomes that matter?</h2>
+    <p>At Eficode, I led the product work on Lens, a capability in our customer portal that brings metrics from different tools onto a shared timeline. Customers could explore how AI adoption related to changes in delivery, security, and service outcomes.</p>
+    <div class="personal-pair">
+      <div><h3>From customer concern to product direction</h3><p>We initially explored broader DevOps health metrics. Interviews showed that customers were investing heavily in AI and struggling to understand what it changed. I shifted our priorities toward that question, working with design, engineering, and pilot companies to refine the problem and prototypes before committing more engineering time.</p></div>
+      <div><h3>How I used AI in the work</h3><p>I used ChatGPT for research and market analysis, then Figma AI and ChatGPT to prototype the UI and UX. That gave us something concrete to challenge with pilot customers and improve through their feedback.</p></div>
+    </div>
+    <p class="personal-takeaway"><strong>What came out of it:</strong> Customer pilots and some production use, with Lens becoming a core capability supporting a new advisory offering. It helped customers discuss changes over time and contributed to new engagements for Eficode.</p>
+    <p>For me, the important question was whether AI was helping customers achieve their goals. Usage metrics were a starting point; looking across delivery, security, and service metrics made the conversation more useful.</p>
+    <a class="personal-read" href="{{ '/portfolio/' | relative_url }}#1-lens">Read the full Lens story in my portfolio <span aria-hidden="true">→</span></a>
+  </section>
+  <section class="personal-project" id="unity" aria-labelledby="unity-title">
+    <div class="personal-project-top"><span class="personal-number" aria-hidden="true">02</span><p class="personal-eyebrow">Unity · Coding agents · MCP</p><span class="personal-status">On pause</span></div>
+    <h2 id="unity-title">A tower defense game, and a lesson in finishing.</h2>
+    <p>I had wanted to make a game inspired by Line Tower Wars from the Warcraft III modding community. It became my first substantial experiment with a coding agent and MCPs.</p>
+    <div class="personal-pair">
+      <div><h3>What I built</h3><p>A Unity prototype, starting with a roadmap and task for scripts written by the agent and changes I made in the editor. I then connected the agent to Unity through Model Context Protocol (MCP), letting it work directly with scenes and objects.</p></div>
+      <div><h3>What I learned</h3><p>Getting to “somewhat working” is surprisingly fast. Getting all the details right in a game takes much longer. The agent needs clear direction and someone who checks what actually happens in the game. It's also helped me significantly improve my communications with agents to get what I want. </p><p>At one point, I felt like a pawn in my own project. Much of my role had become checking the result, then saying, “OK, next task on the roadmap.” Progress was fast, but I was enjoying the work less. That taught me to pay attention to which parts I want to do myself, so that building with agents stays enjoyable.</p></div>
+    </div>
+    <p class="personal-takeaway"><strong>Where it stands:</strong> A learning project, currently on pause. I will eventually come back to it, or start a different game. As it stands, it's functional, the core loop is in place, but it's not particularily pleasant to play.</p>
+  </section>
+
+  <section class="personal-project" id="applications" aria-labelledby="applications-title">
+    <div class="personal-project-top"><span class="personal-number" aria-hidden="true">03</span><p class="personal-eyebrow">Research · Writing · Personal context</p><span class="personal-status">Personal workflow</span></div>
+    <h2 id="applications-title">Finding and helping me apply to work places.</h2>
+    <p>Applying for a job means researching the company, deciding whether the role fits, and explaining why my experience matters. Much of the background repeats. The reasons for applying should not.</p>
+    <div class="personal-pair">
+      <div><h3>What I built</h3><p>An multi agents workflow that researches for work places using my skills rather than my title, then researches the role and the company, checks its fitness against my experience, and asks me questions related to the role, motivation for the role and adjascent useful knowledge. It then draws on my portfolio, the knowledgebase it updates based on my answers to its questions and the previous applications, then suggests changes to my cover letter and CV.</p></div>
+      <div><h3>What I learned</h3><p>The useful part starts before the writing. Finding reliable information about the company, asking why I want the role and finding specific examples makes the result much better. Rules about accuracy, vocabulary, and tone help, but I still edit the final application myself. </p><p>I still have mixed feelings about this. Even when the experience and motivation are mine, I worry that using AI makes my application feel less genuine to the recruiter. With so many AI-assisted applications coming in, I can understand why they might question what they read. At the same time, I feel at a disadvantage if I don't use these tools. I try to navigate that tension by keeping the content grounded in my experience and editing it in my own voice.</p></div>
+    </div>
+    <details class="personal-details"><summary>The workflow, step by step</summary><ol><li>Search workplaces wherever possible (aggregators, companies, ...). Store in database the jobs found (so that one doesn't appear again)</li><li>For the fitting ones, research the company and assess the role against my experience, values, ...</li><li>Ask targeted questions, starting with my motivation.</li><li>Save relevant context and draft a cover letter grounded in real examples that I have had.</li><li>I review and edit the letter.</li><li>Assess whether the CV needs tailoring and propose changes through canva MCP.</li><li>I check and edit the final documents and submit the application myself.</li></ol></details>
+    <p class="personal-takeaway"><strong>The useful boundary:</strong> AI helps with research, structure, and drafting. My experience, motivation, and final decisions remain mine.</p>
+  </section>
+
+  <section class="personal-project" id="warships" aria-labelledby="warships-title">
+    <div class="personal-project-top"><span class="personal-number" aria-hidden="true">04</span><p class="personal-eyebrow">Video analysis · Data · Agent coordination</p><span class="personal-status">Personal project</span></div>
+    <h2 id="warships-title">Helping a World of Warships team learn from its games.</h2>
+    <p>This grew into a set of agents working on replay conversion, match analysis, opponent research, player analytics and coaching for a French-speaking clan.</p>
+    <div class="personal-pair">
+      <div><h3>What I built</h3><p>A workflow that turns replays into videos, analyses team and player performance, and prepares player and strategy advice and Discord updates. It uses written resources (forums, google sheets) and video material (youtube) to build its understanding of the game.</p></div>
+      <div><h3>What I learned</h3><p>An agent once claimed to analyse a video it could not actually read. Comparing its claims with what I saw exposed the problem. I also learned that advice only helps if it's specific and if people understand it: clear French worked better than invented gaming jargon.</p></div>
+    </div>
+    <p class="personal-takeaway"><strong>The lesson I keep coming back to:</strong> Check the evidence behind a confident answer. Then make the result understandable to the people who will use it.</p>
+  </section>
+
+  <section class="personal-closing" aria-labelledby="ai-next">
+    <p class="personal-eyebrow">More and more projects keep popping up</p>
+    <h2 id="ai-next">A useful tool. Plenty left to figure out. Most people don't realize its potential</h2>
+    <p>I am everyday learning new ways to use agents. GIving it seemingly impossible tasks and seeing where it lands is truely fantastic. At the end of the day, these projects give me concrete examples to think with, including the parts that did not work.</p>
+    <a href="{{ '/outside-of-work/' | relative_url }}">A little more about me outside of work <span aria-hidden="true">→</span></a>
+  </section>
+</div>
