@@ -9,18 +9,18 @@
       {% assign paths = page.url | split: '/' %}
 
       {% if page.layout == 'home' %}
-        <span><a href="{{ '/' | relative_url }}">Portfolio</a></span>
+        <span><a href="{{ '/' | relative_url }}">Home</a></span>
         <span>Blog</span>
       {% elsif paths.size == 0 %}
         <!-- index page -->
-        <span>Portfolio</span>
+        <span>Home</span>
 
       {% else %}
         {% for item in paths %}
           {% if forloop.first %}
             <span>
               <a href="{{ '/' | relative_url }}">
-                Portfolio
+                Home
               </a>
             </span>
 
