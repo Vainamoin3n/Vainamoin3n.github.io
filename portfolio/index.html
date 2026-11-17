@@ -1,0 +1,15 @@
+---
+layout: null
+sitemap: false
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Portfolio | {{ site.title | escape }}</title>
+  <link rel="canonical" href="{{ '/' | absolute_url }}">
+  <script>window.location.replace({{ '/' | relative_url | jsonify }} + window.location.search + window.location.hash);</script>
+  <meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}">
+</head>
+<body><p>The portfolio has moved to the <a href="{{ '/' | relative_url }}">homepage</a>.</p></body>
+</html>
