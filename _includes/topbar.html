@@ -50,7 +50,7 @@
     <div id="topbar-title">
       {% if page.layout == 'home' %}
         Blog
-      {% elsif page.collection == 'tabs' or page.layout == 'page' %}
+      {% elsif page.collection == 'tabs' or page.layout == 'page' or page.layout == 'case-study' %}
         {%- capture tab_key -%}{{ page.url | split: '/' }}{%- endcapture -%}
         {{- site.data.locales[include.lang].tabs[tab_key] | default: page.title -}}
       {% else %}

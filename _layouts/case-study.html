@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<article class="portfolio-case content">
+  <a class="pf-back" href="{{ '/' | relative_url }}#selected-work"><span aria-hidden="true">←</span> Back to selected work</a>
+  <header class="pf-case-header"><p class="pf-eyebrow">{{ page.company }} <span aria-hidden="true">/</span> Case study</p><h1>{{ page.title }}</h1><p class="pf-lead">{{ page.summary }}</p><dl class="pf-case-facts"><div><dt>My role</dt><dd>{{ page.role }}</dd></div><div><dt>Focus</dt><dd>{{ page.focus }}</dd></div></dl></header>
+  <nav class="pf-case-nav" aria-label="Case study sections"><a href="#in-brief">In brief</a><a href="#the-detail">Explore the detail</a><a href="{{ '/' | relative_url }}#selected-work">Other projects</a></nav>
+  <div class="pf-case-body">{{ content }}</div>
+  <footer class="pf-case-footer"><h2>Explore another project</h2><a class="pf-button" href="{{ '/' | relative_url }}#selected-work">Back to selected work <span aria-hidden="true">→</span></a><a class="pf-text-link" href="{{ '/ai/' | relative_url }}">My work with AI <span aria-hidden="true">↗</span></a></footer>
+</article>

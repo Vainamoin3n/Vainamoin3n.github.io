@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="portfolio-home content">{{ content }}</article>
+<script>
+(() => {
+  const routes = {{ site.data.portfolio_legacy_links | jsonify }};
+  function followOldSection() {
+    let section;
+    try { section = decodeURIComponent(window.location.hash.slice(1)); } catch { return; }
+    if (routes && Object.prototype.hasOwnProperty.call(routes, section)) {
+      const target = new URL(routes[section], window.location.origin);
+      window.location.replace(target.pathname + window.location.search + target.hash);
+    }
+  }
+  followOldSection();
+  window.addEventListener('hashchange', followOldSection);
+})();
+</script>
