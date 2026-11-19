@@ -11,7 +11,7 @@ description: "Clément Louarn: Product Manager with a software engineering backg
 <section class="pf-hero" id="introduction" aria-labelledby="portfolio-intro">
   <p class="pf-eyebrow">Clément Louarn <span aria-hidden="true">/</span> Product Manager</p>
   <h1 id="portfolio-intro">Products that make<br>complex work simpler.</h1>
-  <p class="pf-lead">I bring a software engineering background to product management. With customers, designers, and engineers, I turn complex problems into products people can use and teams can keep improving.</p>
+  <p class="pf-lead">I bring a software engineering background to product management. With customers, designers, and engineers, I turn complex problems into successful business solutions that delight customers.</p>
   <p class="pf-context">B2B software <span aria-hidden="true">·</span> Developer tools <span aria-hidden="true">·</span> Gaming platforms</p>
   <div class="pf-actions"><a class="pf-button" href="#selected-work">Explore my work <span aria-hidden="true">↓</span></a><a class="pf-text-link" href="{{ site.social.links.first }}" target="_blank" rel="noopener noreferrer">Connect on LinkedIn <span aria-hidden="true">↗</span></a></div>
 </section>
