@@ -18,22 +18,22 @@ description: "Clément Louarn: Product Manager with a software engineering backg
 
 <section class="pf-proof" aria-label="Selected product outcomes">
   <dl>
-    <div><dt>Hours → minutes</dt><dd>Monthly customer reporting<br><span>Eficode Journey</span></dd></div>
+    <div><dt>Days → minutes</dt><dd>Monthly customer reporting<br><span>Eficode Journey</span></dd></div>
     <div><dt>50–60%</dt><dd>Customer organisations active monthly<br><span>Eficode Journey</span></dd></div>
-    <div><dt>3 connectors</dt><dd>Shipped to vendor marketplaces<br><span>Atlassian &amp; GitHub</span></dd></div>
+    <div><dt>Hundreds</dt><dd>Organizations served</dd></div>
   </dl>
 </section>
 
 <section id="selected-work" class="pf-work" aria-labelledby="work-title">
-  <div class="pf-section-heading"><div><p class="pf-eyebrow">Selected work</p><h2 id="work-title">The problem. My part. What changed.</h2></div><p>Three examples of products my teams and I shipped.</p></div>
+  <div class="pf-section-heading"><div><p class="pf-eyebrow">Selected work</p><h2 id="work-title">From customer problems to great outcomes for both the customer and our organization</h2></div><p>Three examples of products my teams and I shipped.</p></div>
 
   <article class="pf-project pf-project-journey" aria-labelledby="journey-card-title">
-    <div class="pf-project-copy"><p class="pf-project-label"><span aria-hidden="true">01</span> Eficode Journey</p><h3 id="journey-card-title">From scattered reporting to a customer portal.</h3><p>Customers needed a clear view of the services they paid for. Service managers needed reporting that did not consume the start of every month.</p><p class="pf-role"><strong>My role:</strong> Product Manager, from discovery and prioritisation to delivery with the team.</p><ul class="pf-results"><li>Reporting fell from hours or days to minutes.</li><li>50–60% of customer organisations were active monthly.</li></ul><a class="pf-case-link" href="{{ '/work/eficode-journey/' | relative_url }}">Read the Journey case study <span aria-hidden="true">→</span></a></div>
+    <div class="pf-project-copy"><p class="pf-project-label"><span aria-hidden="true">01</span> Eficode Journey</p><h3 id="journey-card-title">From scattered reporting to a customer portal.</h3><p>Customers needed a clear view of the services they paid for. Service managers needed reporting that did not consume the start of every month.</p><p class="pf-role"><strong>My role:</strong> Product Manager, from discovery and prioritisation to delivery with the team.</p><ul class="pf-results"><li>Reporting fell from days to minutes.</li><li>50–60% of customer organisations were active monthly.</li></ul><a class="pf-case-link" href="{{ '/work/eficode-journey/' | relative_url }}">Read the Journey case study <span aria-hidden="true">→</span></a></div>
     <figure class="pf-project-visual"><a href="{{ '/work/eficode-journey/' | relative_url }}"><img src="{{ '/assets/img/Journey/Dashboard.png' | relative_url }}" alt="Eficode Journey dashboard bringing tool status, service usage, reporting, and recommendations into one customer portal" width="3456" height="1796" loading="lazy" decoding="async"></a><figcaption>One place to understand the service and act on it.</figcaption></figure>
   </article>
 
   <article class="pf-project pf-project-lens" aria-labelledby="lens-card-title">
-    <div class="pf-project-copy"><p class="pf-project-label"><span aria-hidden="true">02</span> Eficode Connectors &amp; Lens</p><h3 id="lens-card-title">Turn tool data into better customer decisions.</h3><p>Cloud migrations reduced visibility into customers' tools. AI investment added a new question: what was actually changing in delivery and quality?</p><p class="pf-role"><strong>My role:</strong> Product direction, customer discovery, partner coordination, pilots, and rollout.</p><ul class="pf-results"><li>Three marketplace connectors shipped.</li><li>Cross-tool insights supported a new advisory offering.</li></ul><a class="pf-case-link" href="{{ '/work/connectors-and-lens/' | relative_url }}">Read the Connectors &amp; Lens case study <span aria-hidden="true">→</span></a></div>
+    <div class="pf-project-copy"><p class="pf-project-label"><span aria-hidden="true">02</span> Eficode Connectors &amp; Lens</p><h3 id="lens-card-title">Turn tool data into better customer decisions.</h3><p>Cloud migrations reduced visibility into customers' tools. AI investment added a new question: what was actually changing in delivery and quality?</p><p class="pf-role"><strong>My role:</strong> Product direction, customer discovery, partner coordination, pilots, and rollout.</p><ul class="pf-results"><li>Three marketplace connectors shipped.</li><li>Cross-tool insights supported a new advisory offering and existing products.</li></ul><a class="pf-case-link" href="{{ '/work/connectors-and-lens/' | relative_url }}">Read the Connectors &amp; Lens case study <span aria-hidden="true">→</span></a></div>
     <figure class="pf-project-visual"><a href="{{ '/work/connectors-and-lens/' | relative_url }}"><img src="{{ '/assets/img/Journey/Lens1.png' | relative_url }}" alt="Lens comparing Copilot adoption and pull-request volume on a shared timeline" width="1678" height="1308" loading="lazy" decoding="async"></a><figcaption>Shared timelines help customers investigate change.</figcaption></figure>
   </article>
 
